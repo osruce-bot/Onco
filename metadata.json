@@ -1,0 +1,5 @@
+{
+  "name": "OncoTrack Manager",
+  "description": "A comprehensive patient case management system designed for oncology administrators. Features include a real-time dashboard with analytics, a filterable patient registry based on the provided dataset, and reporting tools to track distribution, medical status, and institutional data.",
+  "requestFramePermissions": []
+}
